@@ -1,0 +1,11 @@
+# 个人数据不入库
+prompt_log.csv
+paint_marks.json
+paint_marks*.json
+paint_marks*.lock
+paint_gallery_evidence/
+paint_gallery_test/
+_gallery_edge_profile/
+__pycache__/
+*.pyc
+translate_cache.json
